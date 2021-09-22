@@ -24,7 +24,7 @@
   </div>
   <center>
   <div class="logo3">
-    <img src="img/uclogo.png" width=80%>
+    <img src="img/cuelogo1.png" width=110%>
   </div>
   </center>
   <div>

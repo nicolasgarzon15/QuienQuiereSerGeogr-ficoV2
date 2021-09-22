@@ -28,7 +28,7 @@ include("scripts/asistentes.php")
       select_id("pregunta2").style.display="block";
   
       console.log(nom)
-    }, 1000 * 8)
+    }, 1000 * 150)
 
     function select_id(id) {
       return document.getElementById(id)
@@ -75,7 +75,7 @@ include("scripts/asistentes.php")
     </div>
     <center>
   <div class="logo3">
-    <img src="img/uclogo.png" width=80%>
+    <img src="img/cuelogo1.png" width=110%>
   </div>
   </center>
   <div class="millonarioinicio">

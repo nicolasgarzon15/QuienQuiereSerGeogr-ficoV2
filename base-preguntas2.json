@@ -1,127 +1,158 @@
 [{
     "categoria": "",
-    "pregunta": "¿En que ciudad se realiza la transmisión del evento? ",
-    "respuesta": "Redlands, California",
-    "incorrecta1": "Miamia, Florida",
-    "incorrecta2": "Los Angeles, California ",
-    "incorrecta3": "San Diego, California",
+    "pregunta": "¿Dónde se puede participar en la iniciativa de 30x30?",
+    "respuesta": "En el Hub de 30x30",
+    "incorrecta1": "En el StoryMap de 30x30",
+    "incorrecta2": "En la aplicación web de 30x30",
+    "incorrecta3": "En la página web de 30x30",
     "imagen": "",
     "objectFit": "cover"
 },
 
 {
     "categoria": "",
-    "pregunta": "¿Cuál empresa ganó el premio Making a difference award?",
-    "respuesta": "Nespresso",
-    "incorrecta1": "Juan Valdez Café",
-    "incorrecta2": "Coca Cola",
-    "incorrecta3": "Pepsico",
+    "pregunta": "¿Qué podemos hacer con el Hub de la iniciativa 30x30 de Esri?",
+    "respuesta": "Todas las anteriores",
+    "incorrecta1": "Empezar a interactuar con el área protegida de Colombia, Ecuador y Panamá",
+    "incorrecta2": "Ver el área totál marina y terrestre protegidas actualmente",
+    "incorrecta3": "Identificar las organizaciones que están participando",
     "imagen": "",
     "objectFit": "cover"
 },
 
 {
     "categoria": "",
-    "pregunta": "¿Qué organización ganó el premio President award?",
-    "respuesta": "Universidad de Michigan",
-    "incorrecta1": "Instituto Tecnológico de Massachusetts ",
-    "incorrecta2": "Universidad de Harvard",
-    "incorrecta3": "Univesidad de Chicago",
+    "pregunta": "¿En que consiste la iniciativa de 30x30?",
+    "respuesta": "Proteger 30% del área marina y 30% del área terrestre antes del 2030",
+    "incorrecta1": "Proteger 30% del área marina antes del 2030",
+    "incorrecta2": "Proteger 30% de área terrestre antes del 2030",
+    "incorrecta3": "Proteger 30% del área marina y 30% del área terrestre",
     "imagen": "",
     "objectFit": "cover"
 },
 
 {
     "categoria": "",
-    "pregunta": "¿Cuál es nuevo producto de ArcGIS que permite un contenido de imágenes mejorado dentro de ArcGIS Online?",
-    "respuesta": "ArcGIS Image",
-    "incorrecta1": "ArcGIS Field Maps",
-    "incorrecta2": "ArcGIS Velocity",
-    "incorrecta3": "ArcGIS Storymaps",
+    "pregunta": "¿Qué porcentajes de la tierra y el mar están protegidos actualmente?",
+    "respuesta": "7% del mar y 15% de la tierra",
+    "incorrecta1": "7% de la tierra y 15% del mar",
+    "incorrecta2": "30% del mar y 30% de la tierra",
+    "incorrecta3": "25% del mar y 20% de la tierra",
     "imagen": "",
     "objectFit": "cover"
 },
 {
     "categoria": "",
-    "pregunta": "¿Cuál es la función de ArcGIS Velocity?",
-    "respuesta": "Permitir una integración de datos en tiempo real par la toma de decisiones",
-    "incorrecta1": "Permitir imáganes espaciales para un mejor entendimiento del terreno",
-    "incorrecta2": "Permitir análisis pasados de un mapa específico",
-    "incorrecta3": "Todas las anteriores",
-    "imagen": "",
-    "objectFit": "cover"
-},
-
-{
-    "categoria": "",
-    "pregunta": "¿Qué programa de ArcGIS utiliza drones para generar las visualizaciones?",
-    "respuesta": "Site Scan for GIS",
-    "incorrecta1": "ArcGIS Velocity",
-    "incorrecta2": "ArcGIS Enterprise",
-    "incorrecta3": "ArcGIS Storymaps",
+    "pregunta": "¿Quiénes pueden contribuir información al Hub de 30x30?",
+    "respuesta": "Todas las anteriores",
+    "incorrecta1": "Los individuos",
+    "incorrecta2": "Las empresas",
+    "incorrecta3": "Las organizaciones gubernamentales",
     "imagen": "",
     "objectFit": "cover"
 },
 
 {
     "categoria": "",
-    "pregunta": "¿Cuál es la función de ArcGIS survey 123?",
-    "respuesta": "Captura de datos basada en formularios",
-    "incorrecta1": "Utilización de drones para el levantamiento de terrenos",
-    "incorrecta2": "Contenido de imágenes que ayudan al entendimiento del terreno",
-    "incorrecta3": "Todas las anteriores",
+    "pregunta": "¿Cuál de estas no fue una sesión temática?",
+    "respuesta": "",
+    "incorrecta1": "",
+    "incorrecta2": "",
+    "incorrecta3": "",
     "imagen": "",
     "objectFit": "cover"
 },
 
 {
     "categoria": "",
-    "pregunta": "¿ArcGIS Field Maps reune cuál/es aplicaciones de ArcGIS?",
-    "respuesta": "Survey 123 y ArcGIS Quick Capture",
-    "incorrecta1": "Survey 123",
-    "incorrecta2": "ArcGIS Quick Capture",
-    "incorrecta3": "Ninguna de las anteriores",
+    "pregunta": "¿Cuál es un ejemplo de la transformación digital para un futuro sostenible?",
+    "respuesta": "La union del BIM y SIG",
+    "incorrecta1": "Los webhooks",
+    "incorrecta2": "El trabajo con aplicaciones de campo",
+    "incorrecta3": "La extracción y clasificación de entidades",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Los barrios digitales contribuyen a:",
+    "respuesta": "Todas las anteriores",
+    "incorrecta1": "Planeación de la sostenibilidad",
+    "incorrecta2": "Mejora de la calidad de vida de sus habitantes",
+    "incorrecta3": "Resolución de problemáticas locales",
     "imagen": "",
     "objectFit": "cover"
 },
 {
     "categoria": "",
-    "pregunta": "¿Cuáles son las funcionalidades de ARcGIS Field Maps? (Capacidades de edición)",
-    "respuesta": "Ninguna de las anteriores",
+    "pregunta": "Con ArcGIS Dashboards, una entidad como IDARTES puede:",
+    "respuesta": "Todas las anteriores",
+    "incorrecta1": "Obtener información de las áreas artísticas",
+    "incorrecta2": "Visualizar las acciones como área institucional",
+    "incorrecta3": "Ver presupuestos e información demográfica",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Con las tecnologías de información geográfica, el sector agropecuario, ha podido:",
+    "respuesta": "Todas las anteriores",
+    "incorrecta1": "Identificar riesgos",
+    "incorrecta2": "Diseñar esquemas e implementar soluciones",
+    "incorrecta3": "Analizar resultados",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "La herramienta que ofrece Esri para la recolección de datos con drones es:",
+    "respuesta": "Drone2Map",
+    "incorrecta1": "Site Scan",
+    "incorrecta2": "Survey123",
+    "incorrecta3": "StoryMaps",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál de estas aplicaciones integró todas estas capacidades para el trabajo en campo?",
+    "respuesta": "ArcGIS Field Maps",
     "incorrecta1": "Collector",
-    "incorrecta2": "Explore",
+    "incorrecta2": "Navigator",
     "incorrecta3": "Tracker",
     "imagen": "",
     "objectFit": "cover"
 },
-{
-    "categoria": "",
-    "pregunta": "¿Cómo funciona ArcGIS Field Maps?",
-    "respuesta": "Recolección en tiempo real desde el campo",
-    "incorrecta1": "Recolección previo a la visita de campo",
-    "incorrecta2": "Recolección posterior a la visita de campo",
-    "incorrecta3": "Recolección de datos de campo en un tiempo determinado (días, meses, años)",
-    "imagen": "",
-    "objectFit": "cover"
-},
 
 {
     "categoria": "",
-    "pregunta": "¿Cual programa de ArcGIS crea historias inspiradoras e inmersivas combinando texto, mapas interactivos y otros contenidos multimedia?",
-    "respuesta": "ArcGIS Storymaps",
-    "incorrecta1": "ArcGIS Velocity",
-    "incorrecta2": "ARcGIS Field Maps",
-    "incorrecta3": "ArcGIS Image",
+    "pregunta": "ArcGIS Velocity y ArcGIS Image son:",
+    "respuesta": "Extensiones de ArcGIS Online",
+    "incorrecta1": "Soluciones de Esri",
+    "incorrecta2": "Aplicaciones de campo",
+    "incorrecta3": "Aplicaciones recoleccion de datos en campo",
     "imagen": "",
     "objectFit": "cover"
 },
-
 {
     "categoria": "",
-    "pregunta": "¿Qué programa de ArcGIS permite integrar Autodesk con ArcGIS para generar contenido más preciso?",
-    "respuesta": "ArcGIS GeoBIM",
-    "incorrecta1": "ArcGIS Velocity",
-    "incorrecta2": "ArcGIS Enterprise",
+    "pregunta": "ArcGIS Hub es una extensión de ArcGIS Online que permite:",
+    "respuesta": "Todas las anteriores",
+    "incorrecta1": "Organizar datos, personas y gestionar iniciativas",
+    "incorrecta2": "Compartir datos abiertos",
+    "incorrecta3": "Crear compromiso",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Complementando lo mejor de la tecnología, con ciencia y creatividad:",
+    "respuesta": "Todas las anteriores",
+    "incorrecta1": "Nos alejamos de las soluciones necesarias para mejorar la sostenibilidad",
+    "incorrecta2": "Nos acercamos mas a la resolución de los problemas que comprometen la sostenibilidad",
     "incorrecta3": "Ninguna de las anteriores",
     "imagen": "",
     "objectFit": "cover"
@@ -129,200 +160,10 @@
 
 {
     "categoria": "",
-    "pregunta": "¿Qué aplicación se puede utilizar para recolectar datos en el campo?",
-    "respuesta": "ArcGIS Field Maps",
-    "incorrecta1": "ArcGIS Urban ",
-    "incorrecta2": "ArcGIS Indoors",
-    "incorrecta3": "ArcGIS Pro",
-    "imagen": "",
-    "objectFit": "cover"
-},
-{
-    "categoria": "",
-    "pregunta": "¿Cómo se pueden visualizar dos capas sin utilizar transparencias?",
-    "respuesta": "Blending",
-    "incorrecta1": "Clipping",
-    "incorrecta2": "Buffer",
-    "incorrecta3": "Erasing",
-    "imagen": "",
-    "objectFit": "cover"
-},
-{
-    "categoria": "",
-    "pregunta": "¿En cuál centro deportivo se está utlizando ArcGIS Velocity para mejorar el uso de recursos? ",
-    "respuesta": "Aspen",
-    "incorrecta1": "Summit Mountain",
-    "incorrecta2": "Vail",
-    "incorrecta3": "Telluride",
-    "imagen": "",
-    "objectFit": "cover"
-},
-
-{
-    "categoria": "",
-    "pregunta": "¿Con qué producto se puede hacer modelación en 3D? ",
-    "respuesta": "todas las anteriores",
-    "incorrecta1": "ArcGIS Urban ",
-    "incorrecta2": "ArcGIS City Engine",
-    "incorrecta3": "ArcGIS Pro",
-    "imagen": "",
-    "objectFit": "cover"
-},
-
-{
-    "categoria": "",
-    "pregunta": "¿Qué le puede agregar a un StoryMap? ",
-    "respuesta": "videos",
-    "incorrecta1": "mapas",
-    "incorrecta2": "imágenes",
-    "incorrecta3": "todas las anteriores",
-    "imagen": "",
-    "objectFit": "cover"
-},
-
-{
-    "categoria": "",
-    "pregunta": "La integración de GIS y BIM le permitirá crear mejores ",
-    "respuesta": "modelos 3D",
-    "incorrecta1": "bases de datos",
-    "incorrecta2": "mapas base",
-    "incorrecta3": "colaboraciones",
-    "imagen": "",
-    "objectFit": "cover"
-},
-{
-    "categoria": "",
-    "pregunta": "¿Para qué le sirven las colecciones en ArcGIS StoryMaps?",
-    "respuesta": "como portafolio de proyectos",
-    "incorrecta1": "para diseñar mapas",
-    "incorrecta2": "para crear mapas",
-    "incorrecta3": "para modificar mapas",
-    "imagen": "",
-    "objectFit": "cover"
-},
-{
-    "categoria": "",
-    "pregunta": "¿Cuál es el número de esta Conferencia de Usuarios?",
-    "respuesta": "41",
-    "incorrecta1": "45",
-    "incorrecta2": "38",
-    "incorrecta3": "35",
-    "imagen": "",
-    "objectFit": "cover"
-},
-
-{
-    "categoria": "",
-    "pregunta": "¿Cuál es el slogan o mensaje central de esta UC?",
-    "respuesta": "Creando un futuro sostenible ",
-    "incorrecta1": "Creando un futuro SIGnificativo",
-    "incorrecta2": "Los mapas son el futuro",
-    "incorrecta3": "Un mejor futuro con sostenibilidad",
-    "imagen": "",
-    "objectFit": "cover"
-},
-
-{
-    "categoria": "",
-    "pregunta": "¿Cuál ciudad de Alemania aplico los SIG para mejorar sus servicios públicos?",
-    "respuesta": "Munich",
-    "incorrecta1": "Berlin",
-    "incorrecta2": "Düsseldorf",
-    "incorrecta3": "Colonia",
-    "imagen": "",
-    "objectFit": "cover"
-},
-
-{
-    "categoria": "",
-    "pregunta": "¿Quién es el presentador principal de la plenaria de hoy?",
-    "respuesta": "Jack Dangermond",
-    "incorrecta1": "Alan Barret",
-    "incorrecta2": "Brian Chesky",
-    "incorrecta3": "Laura Dangermond",
-    "imagen": "",
-    "objectFit": "cover"
-},
-{
-    "categoria": "",
-    "pregunta": "¿Qué organización colombiana ganó SAG AWARD 2021?",
-    "respuesta": "Agencia Nacional de Tierras",
-    "incorrecta1": "CORTOLIMA",
-    "incorrecta2": "Instituto Geográfico Agustín Codazzi ",
-    "incorrecta3": "Ministerio de ambiente ",
-    "imagen": "",
-    "objectFit": "cover"
-},
-{
-    "categoria": "",
-    "pregunta": "¿Cuáles son los tipos de sistemas fundamentales que soporta ArcGIS?",
+    "pregunta": "El Olaya Hub, es una plataforma interactiva que permite:",
     "respuesta": "Todas las anteriores",
-    "incorrecta1": "System of insight",
-    "incorrecta2": "System of Engagement",
-    "incorrecta3": "System of Record",
-    "imagen": "",
-    "objectFit": "cover"
-},
-
-{
-    "categoria": "",
-    "pregunta": "¿Quién es el ganador del Enterprise GIS Award? ",
-    "respuesta": "LOJIC",
-    "incorrecta1": "American Life League",
-    "incorrecta2": "Center for Applied Linguistics",
-    "incorrecta3": "The Good Food Institute ",
-    "imagen": "",
-    "objectFit": "cover"
-},
-
-{
-    "categoria": "",
-    "pregunta": "¿Cuál es el nombre del autor mexicano del libro que menciona Jack en su presentación?",
-    "respuesta": "Mario Palma",
-    "incorrecta1": "Carlos Fuentes",
-    "incorrecta2": "Amado Nervo",
-    "incorrecta3": "José Emilio Pacheco",
-    "imagen": "",
-    "objectFit": "cover"
-},
-
-{
-    "categoria": "",
-    "pregunta": "¿Cuál de estas metodologías NO integra el Geographical Approach? ",
-    "respuesta": "GeoMarketing",
-    "incorrecta1": "GeoAnalytics",
-    "incorrecta2": "GeoDesign",
-    "incorrecta3": "GeoCollaboration",
-    "imagen": "",
-    "objectFit": "cover"
-},
-{
-    "categoria": "",
-    "pregunta": "¿Cuál de las siguientes herramientas se destacó como una novedad de ArcGIS? ",
-    "respuesta": "Todas las anteriores",
-    "incorrecta1": "Imagery and Remote Sensing",
-    "incorrecta2": "Field Operations",
-    "incorrecta3": "Real-Time GIS ",
-    "imagen": "",
-    "objectFit": "cover"
-},
-{
-    "categoria": "",
-    "pregunta": "¿Qué herramienta NO hace parte de ArcGIS?",
-    "respuesta": "ArcGIS Timeline",
-    "incorrecta1": "ArcGIS Velocity",
-    "incorrecta2": "ArcGIS Urban",
-    "incorrecta3": "ArcGIS Dashboards",
-    "imagen": "",
-    "objectFit": "cover"
-},
-
-{
-    "categoria": "",
-    "pregunta": "¿Qué organización panameña ganó SAG AWARD 2021?",
-    "respuesta": "Ministerio de salud de Panamá",
-    "incorrecta1": "Canal de Panamá",
-    "incorrecta2": "IDAAN",
+    "incorrecta1": "Analizar, explorar y descargar datos abiertos",
+    "incorrecta2": "Insentivar la participación ciudadana",
     "incorrecta3": "Ninguna de las anteriores",
     "imagen": "",
     "objectFit": "cover"
@@ -330,148 +171,234 @@
 
 {
     "categoria": "",
-    "pregunta": "¿Qué organización ecuatoriana ganó SAG AWARD 2021?",
-    "respuesta": "EPMAPS",
-    "incorrecta1": "Cable & Wireless",
-    "incorrecta2": "Veolia",
-    "incorrecta3": "CNEL EP",
-    "imagen": "",
-    "objectFit": "cover"
-},
-
-{
-    "categoria": "",
-    "pregunta": "¿Cuáles fueron las mejoras para la Interactive Web Mapping?",
-    "respuesta": "Rápido e intuitivo",
-    "incorrecta1": "Poderoso y emocionante",
-    "incorrecta2": "Herramientas mejoradas y flujos de trabajo",
-    "incorrecta3": "Todas las anteriores",
-    "imagen": "",
-    "objectFit": "cover"
-},
-{
-    "categoria": "",
-    "pregunta": "¿A cuál de estos conceptos empezamos a llamar GeoAI?",
+    "pregunta": "¿Cómo ha sido util el sistema de ArcGIS en la optimización del flujo de trabajo DIMAR como entidad?",
     "respuesta": "Todas las anteriores",
-    "incorrecta1": "Machine Learning",
-    "incorrecta2": "Deep Learning",
-    "incorrecta3": "AI ( Artificial Inteligence)",
-    "imagen": "",
-    "objectFit": "cover"
-},
-{
-    "categoria": "",
-    "pregunta": "¿Con qué herramienta podemos planificar, gestionar, recopilar y procesar imágenes?",
-    "respuesta": "Drone Mapping",
-    "incorrecta1": "Interactive Visual Analytics",
-    "incorrecta2": "Spatial Analysis",
-    "incorrecta3": "Reality Capture at scale",
+    "incorrecta1": "Toma de desiciones",
+    "incorrecta2": "Difusión de información",
+    "incorrecta3": "Capacitaciones a las entidades",
     "imagen": "",
     "objectFit": "cover"
 },
 
 {
     "categoria": "",
-    "pregunta": "¿Con cuál ArcGis podemos geodiseñar ciudades?",
-    "respuesta": "ArcGIS Urban",
-    "incorrecta1": "ArcGIS GeoPlanner",
-    "incorrecta2": "ArcGIS Indoors",
-    "incorrecta3": "ArcGIS Business Analyst",
-    "imagen": "",
-    "objectFit": "cover"
-},
-
-{
-    "categoria": "",
-    "pregunta": "¿Dónde trabaja la presentadora inicial del UC Central Live?",
-    "respuesta": "National Geographic",
-    "incorrecta1": "Esri Inc ",
-    "incorrecta2": "Esri Tailandia",
-    "incorrecta3": "Esri Ecuador",
-    "imagen": "",
-    "objectFit": "cover"
-},
-
-{
-    "categoria": "",
-    "pregunta": "¿Desde que país trasmitió la persona de Nespresso?",
-    "respuesta": "Suiza",
-    "incorrecta1": "Colombia",
-    "incorrecta2": "Francia",
-    "incorrecta3": "Estados Unidos",
+    "pregunta": "¿En que herramienta de Esri se apoyó el Jardín Botánico de Bogotá para presentar los indicadores de arbolado urbano en tiempo real?",
+    "respuesta": "ArcGIS Dashboards",
+    "incorrecta1": "ArcGIS Indoors",
+    "incorrecta2": "ArcGIS Image for ArcGIS online",
+    "incorrecta3": "Ninguna de las anteriores",
     "imagen": "",
     "objectFit": "cover"
 },
 {
     "categoria": "",
-    "pregunta": "¿El ejemplo de realidad virtual y la modelación en 3D presentado en la plenaria los aplica en cual campo?",
-    "respuesta": "Planeación urbana",
-    "incorrecta1": "Defensa",
-    "incorrecta2": "Agricultura",
-    "incorrecta3": "Aviación",
+    "pregunta": "El BIM es una metodología de trabajo basada en una maqueta digital a la cual están:",
+    "respuesta": "Conectadas todas las disciplinas involucradas en el desarrollo o diseño de un proyecto ",
+    "incorrecta1": "Habilitadas las funciones de análisis de imágenes",
+    "incorrecta2": "Asociados los perfiles de los profesionales SIG",
+    "incorrecta3": "Relacionadas las tablas",
     "imagen": "",
     "objectFit": "cover"
 },
 {
     "categoria": "",
-    "pregunta": "Utilizando datos LiDAR se pueden detectar",
+    "pregunta": "¿Qué podemos lograr con ArcGIS Dashboards?",
     "respuesta": "Todas las anteriores",
-    "incorrecta1": "Árboles individuales",
-    "incorrecta2": "Huellas de edificios",
-    "incorrecta3": "Topografía",
+    "incorrecta1": "Monitorear información en tiempo real e histórica ",
+    "incorrecta2": "Entregarle a los usuarios una vista unificada de la información",
+    "incorrecta3": "Usar y visualizar la información a través de diferentes dispositivos de forma fácil y sencilla ",
     "imagen": "",
     "objectFit": "cover"
 },
 
 {
     "categoria": "",
-    "pregunta": "¿Para qué se usa el SIG en seguridad y defensa?",
-    "respuesta": "Proteccion de la comunidad",
-    "incorrecta1": "para mediciones en campo",
-    "incorrecta2": "para control de vacunas",
-    "incorrecta3": "para medicion de predios",
+    "pregunta": "¿Qué aplicativo de ArcGIS le permite compartir datos abiertos y fortalecer la participación, colaboración y compromiso con su comunidad?",
+    "respuesta": "ArcGIS Hub Premium",
+    "incorrecta1": "ArcGIS Dashboard",
+    "incorrecta2": "ArcGIS Survey123",
+    "incorrecta3": "ArcGIS QuickCapture",
     "imagen": "",
     "objectFit": "cover"
 },
 
 {
     "categoria": "",
-    "pregunta": "¿Cómo se llama la isla del demo que mostraron como ejemplo de cómo subir las imágenes a la nube?",
-    "respuesta": "Granada",
-    "incorrecta1": "Providencia ",
-    "incorrecta2": "Margarita",
-    "incorrecta3": "Barbados",
+    "pregunta": "¿Cuál es el porcentaje del territorio continental colombiano que comprende la región de la Amazonía?",
+    "respuesta": "42.3%",
+    "incorrecta1": "38%",
+    "incorrecta2": "50%",
+    "incorrecta3": "25%",
     "imagen": "",
     "objectFit": "cover"
 },
 
 {
     "categoria": "",
-    "pregunta": "¿Cuál es la  herramienta donde se puede hacer un repositorio de imágenes en Story Maps?",
-    "respuesta": "Collection- Storymaps",
-    "incorrecta1": "ArcGIS online",
-    "incorrecta2": "Collector ",
-    "incorrecta3": "Expirience Builder",
+    "pregunta": "La entidad dedicada a la investigación científica en temas ambientales de la región amazónica es:",
+    "respuesta": "El Instituto SINCHI",
+    "incorrecta1": "El Instituto Humboldt",
+    "incorrecta2": "El Ministerio de Ambiente ",
+    "incorrecta3": "Ninguna de las anteriores",
     "imagen": "",
     "objectFit": "cover"
 },
 {
     "categoria": "",
-    "pregunta": "Nombre del músico que tocó en los intermedios de la plenaria",
-    "respuesta": "Kevin Eubanks",
-    "incorrecta1": "John Legend",
-    "incorrecta2": "Ed Sheeran",
-    "incorrecta3": "Michel Jackson",
+    "pregunta": "En 170 países, el l PNUD trabaja para:",
+    "respuesta": "Todas las anteriores",
+    "incorrecta1": "Erradicar la pobreza",
+    "incorrecta2": "Reducir la exlcusión y las desigualdades",
+    "incorrecta3": "Ayudar a los países a desarrollar políticas, alianzas y habilidades de liderazgo",
     "imagen": "",
     "objectFit": "cover"
 },
 {
     "categoria": "",
-    "pregunta": "En la mision Mars 2020 participo un robot, ¿cuál es el nombre?",
-    "respuesta": "Perseverance",
-    "incorrecta1": "C-3PO",
-    "incorrecta2": "R2D2",
-    "incorrecta3": "BB8",
+    "pregunta": "El Índice de Gobernabilidad Democrática Territorial fue desarrollado por:",
+    "respuesta": "PNUD",
+    "incorrecta1": "ACNUR",
+    "incorrecta2": "UNICEF",
+    "incorrecta3": "OCHA",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál no es un reto principal del Sistema de Administración del Territorio?",
+    "respuesta": "Dificultad de acceso al territorio",
+    "incorrecta1": "Falta de visión integral del territorio",
+    "incorrecta2": "Debilidad en la gobernanza del territorio",
+    "incorrecta3": "Deficiencia en la prestación de servicios al ciudadano",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Living Atlas of the World es:",
+    "respuesta": "La colección de infomación geoespacial más grande del mundo ",
+    "incorrecta1": "Una colección de mapas solamente creados por Esri",
+    "incorrecta2": "La única herramienta ArcGIS para crear mapas base ",
+    "incorrecta3": "Una colección de mapas estáticos",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál es el slogan de la CUE?",
+    "respuesta": "Creando un futuro sostenible",
+    "incorrecta1": "Analizando datos efectivamente ",
+    "incorrecta2": "Diseñando ciudades sostenibles",
+    "incorrecta3": "Ampliando los usos de los SIG",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "El sistema de información de registro de actuaciones policiales en Colombia tiene como fín analizar las problemáticas en el territorio nacional por medio de:",
+    "respuesta": "El monitoreo centralizado de estadísticas con ArcGIS Dashboards",
+    "incorrecta1": "La creación de mapas con ArcGIS Pro",
+    "incorrecta2": "La comunicación de historias con ArcGIS StoryMaps",
+    "incorrecta3": "La recolección de datos en campo con ArcGIS Field Maps",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "La Sociedad Portuaria de Buenaventura creó un portal geográfico con el sistema ArcGIS para:",
+    "respuesta": "Poder controlar mejor la entrada y salida de los buques ",
+    "incorrecta1": "Monitorear el clima en el puerto",
+    "incorrecta2": "Analizar el volumen de los contenedores ",
+    "incorrecta3": "Ninguna de las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "La infraestructura de ciudad inteligente desarrollada en Barranquilla ha permitido que la ciudad:",
+    "respuesta": "Todas las anteriores",
+    "incorrecta1": "Mejore la calidad de vida de sus ciudadanos",
+    "incorrecta2": "Eleve su competitividad tecnologica ",
+    "incorrecta3": "Optimice los recursos de manera eficiente y estratégica ",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "La Gobernación de Cundinamarca resuelve preguntas de como priorizar las inversiones, dónde y en qué invertir utilizando:",
+    "respuesta": "Un Hub (ArcGIS Hub) y tableros de control (ArcGIS Dashboards)",
+    "incorrecta1": "Aplicaciones web ",
+    "incorrecta2": "Un Hub (ArcGIS Hub)",
+    "incorrecta3": "Tableros de control (ArcGIS Dashboards)",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Las colaboraciones geoespaciales:",
+    "respuesta": "Involucran la divulgación y la difusión del contenido geoespacial",
+    "incorrecta1": "Evitan que el contenido se pierda",
+    "incorrecta2": "Promueven la participación del público",
+    "incorrecta3": "Activan la automatozación de flujos de trabajo",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "Recuperando datos. Espere unos segundos e intente cortar o copiar de nuevo.",
+    "respuesta": "Conectar estudiantes afectados por la pandemia y por los huracanes",
+    "incorrecta1": "Crear gemelos digitales ",
+    "incorrecta2": "Ampliar sus operaciones",
+    "incorrecta3": "Determinar el impacto de los huracanes",
+    "imagen": "",
+    "objectFit": "cover"
+},
+{
+    "categoria": "",
+    "pregunta": "La recolección de los datos en campo se puede complementar con automatización para:",
+    "respuesta": "Todas las anteriores",
+    "incorrecta1": "Optimizan los flujos de trabajo ",
+    "incorrecta2": "Ahorrando tiempo y recursos",
+    "incorrecta3": "Mejorar la productividad ",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "Las infrasteructura geoespacial es:",
+    "respuesta": "El patrón de implementación de un SIG Moderno",
+    "incorrecta1": "El diseño de un flujo de trabajo ",
+    "incorrecta2": "Los datos para realizar un análisis SIG",
+    "incorrecta3": "La herramienta con la cual se desarrollan los SIG ",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "En la toma de datos, los equipos _________ presentan mayor presición",
+    "respuesta": "LiDar",
+    "incorrecta1": "Manuales",
+    "incorrecta2": "BIM",
+    "incorrecta3": "Ninguna de las anteriores",
+    "imagen": "",
+    "objectFit": "cover"
+},
+
+{
+    "categoria": "",
+    "pregunta": "¿Cuál herramienta utilizó el Comité Humanitario de la Alcaldía de Sesquilé para cumplirle a la ciudadanía con mercados y productos de aseo durante la pandemia?",
+    "respuesta": "ArcGIS Survey123 y ArcGIS Hub",
+    "incorrecta1": "ArcGIS Experience Builder",
+    "incorrecta2": "ArcGIS Survey123",
+    "incorrecta3": "ArcGIS Hub",
     "imagen": "",
     "objectFit": "cover"
 }
